@@ -37,6 +37,9 @@ How to use?
 4. Click "Apply" to save your changes
 5. Click "Reset to Default" to revert to original colors
 
+Example: <img width="1913" height="914" alt="Screenshot 2026-03-18 114424" src="https://github.com/user-attachments/assets/5a5946ac-728b-4995-a05c-7e20c8928149" /> vs old: <img width="1915" height="907" alt="Screenshot 2026-03-18 114452" src="https://github.com/user-attachments/assets/8f046c0a-4a5e-4a7f-898b-6e0a5b6d7351" />
+
+
 You can modify `content.js` to target different elements or add more styling options. The CSS selectors are designed to be broad to catch most UI elements, but you can make them more specific if needed.
 Important Note:  Colors must be in hex format (#RRGGBB)
  The extension only works on claude.ai domains
