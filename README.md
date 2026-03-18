@@ -37,19 +37,6 @@ How to use?
 4. Click "Apply" to save your changes
 5. Click "Reset to Default" to revert to original colors
 
-File Structure 
-claude-theme-extension/
-├── manifest.json       # Extension configuration
-├── popup.html         # Extension popup UI
-├── popup.css          # Popup styling
-├── popup.js           # Popup functionality
-├── content.js         # Injects custom CSS into Claude.ai
-├── icons/             # Extension icons
-│   ├── icon16.png
-│   ├── icon48.png
-│   └── icon128.png
-└── README.md          # This file
-
 You can modify `content.js` to target different elements or add more styling options. The CSS selectors are designed to be broad to catch most UI elements, but you can make them more specific if needed.
 Important Note:  Colors must be in hex format (#RRGGBB)
  The extension only works on claude.ai domains
