@@ -17,7 +17,7 @@ A browser extension that lets you customize the background and accent colors of 
 5. The extension is now installed!
 
 Installation For Firefox
-1. Open your browser and navigate to `chrome://extensions/`
+1. Open your browser and navigate to `about:addons/`
 2. Enable "Developer mode" (toggle in top-right corner)
 3. Click "Load unpacked"
 4. Select the `claude-theme-extension` folder
